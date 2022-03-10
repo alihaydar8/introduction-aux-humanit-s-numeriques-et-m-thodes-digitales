@@ -14,4 +14,4 @@
 
 ## rendu final
 
-[link] (https://github.com/alihaydar8/introduction-aux-humanit-s-numeriques-et-m-thodes-digitales/tp1/pagination.png)
+![link](https://github.com/alihaydar8/introduction-aux-humanit-s-numeriques-et-m-thodes-digitales/blob/master/tp1/pagination.png)
